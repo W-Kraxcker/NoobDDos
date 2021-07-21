@@ -3,8 +3,8 @@ This script has been copied and modified by WeirHK :)
 นี่เป็นสคริปที่ถูกคัดลอกและนำมาดัดแปลง
 
 ## Table of contents
-* [How to install it?(#how-to-install-it?)
-* [How to run it?(#how-to-run-it?)
+* [How to install it?](#how-to-install-it?)
+* [How to run it?](#how-to-run-it?)
 
 ## How to install it? (วิธีการติดตั้ง)
 ```
