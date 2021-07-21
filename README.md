@@ -1,6 +1,9 @@
 # NoobDDos
 This script has been copied and modified by WeirHK :)
 นี่เป็นสคริปที่ถูกคัดลอกและนำมาดัดแปลง
+## Warning ##
+* This script is in Thai langquage (สคริปนี้เป็นภาษาไทย)
+* English script coming soon (สคริปที่เป็นภาษาอังกฤษจะมาเร็วๆนี้)
 
 ## Table of contents (สารบัญ)
 * [Supported Operating Systems (ระบบปฏิบัติการที่รองรับ)](#supported-operating-systems)
