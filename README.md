@@ -31,6 +31,9 @@ git clone https://github.com/WeirHK/NoobDDos/
 
 ## How to run it? (วิธีการรัน)
 ```
+cd NoobDDos
+```
+```
 apt install python3
 ```
 ```
