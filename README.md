@@ -1,6 +1,12 @@
 # NoobDDos
 This script has been copied and modified by WeirHK :)
-# How to install it? (วิธีการติดตั้ง)
+นี่เป็นสคริปที่ถูกคัดลอกและนำมาดัดแปลง
+
+## Table of contents
+* [How to install it?(#how-to-install-it?)
+* [How to run it?(#how-to-run-it?)
+
+## How to install it? (วิธีการติดตั้ง)
 ```
 apt install git
 ```
@@ -8,7 +14,7 @@ apt install git
 git clone https://github.com/WeirHK/NoobDDos/
 ```
 
-# How to run it? (วิธีการรัน)
+## How to run it? (วิธีการรัน)
 ```
 apt install python3
 ```
