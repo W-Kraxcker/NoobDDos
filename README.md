@@ -3,9 +3,16 @@ This script has been copied and modified by WeirHK :)
 นี่เป็นสคริปที่ถูกคัดลอกและนำมาดัดแปลง
 
 ## Table of contents (สารบัญ)
-* [Features](#features)
-* [How to install it?](#how-to-install-it?)
-* [How to run it?](#how-to-run-it?)
+* [Supported Operating Systems (ระบบปฏิบัติการที่รองรับ)](#supported-operating-systems)
+* [Features (คุณสมบัต้)](#features)
+* [How to install it? (วิธีการติดตั้ง)](#how-to-install-it?)
+* [How to run it?(วิธีการรัน)](#how-to-run-it?)
+
+## Supported Operating Systems (ระบบปฏิบัติการที่รองรับ)
+*Linux
+*Window
+*Mac
+*Other not Supported
 
 ## Features (คุณสมบัติ)
 * Flood proxy
