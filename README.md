@@ -9,9 +9,9 @@ This script has been copied and modified by WeirHK :)
 * [How to run it?(วิธีการรัน)](#how-to-run-it?)
 
 ## Supported Operating Systems (ระบบปฏิบัติการที่รองรับ)
-* Linux
-* Window
-* Mac
+* Linux (ลินุกซ์)
+* Window (วินโดว)
+* Mac (แมค)
 * Other not Supported
 
 ## Features (คุณสมบัติ)
