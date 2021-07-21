@@ -1,7 +1,7 @@
 # NoobDDos
 This script has been copied and modified by WeirHK :)
 นี่เป็นสคริปที่ถูกคัดลอกและนำมาดัดแปลง
-## Warning ##
+## Warning (คำเตือน)##
 * This script is in Thai langquage (สคริปนี้เป็นภาษาไทย)
 * English script coming soon (สคริปที่เป็นภาษาอังกฤษจะมาเร็วๆนี้)
 
