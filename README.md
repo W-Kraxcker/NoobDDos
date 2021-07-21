@@ -9,10 +9,10 @@ This script has been copied and modified by WeirHK :)
 * [How to run it?(วิธีการรัน)](#how-to-run-it?)
 
 ## Supported Operating Systems (ระบบปฏิบัติการที่รองรับ)
-*Linux
-*Window
-*Mac
-*Other not Supported
+* Linux
+* Window
+* Mac
+* Other not Supported
 
 ## Features (คุณสมบัติ)
 * Flood proxy
